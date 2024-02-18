@@ -1,5 +1,5 @@
 Create a user with CodeCommit/CodePipeline Full Access
-Create GIT security credentials for above user
+Create GIT security credentials for above userVV-->AS CODECOMMIT IS USING GIT BACKENDs
 
 Create service role for Code Deploy - RetailCodeDeploy
 Create service role for Ec2 to download from s3 - RetailEc2ToS3Read
